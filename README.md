@@ -77,7 +77,8 @@ cd SEU_REPOSITORIO
 ```
 ### Estrutura e execução
 
-![Estrutura de pastas](estrutura de pastas.png)
+![Estrutura de pastas](estrutura%20em%20spring.png)
+
 Execute a Aplicação dentro de com.exemple para rodar a API 
 
 Se executando com sucesso será exibito no seu terminal a informaação "Tomcat started on port 8080 (http) with context path '/'".
@@ -87,7 +88,7 @@ Utilise ```http://localhost:8080/api_rest/tarefa``` na interface do Postman e ef
 
   **Para inicia os teste memece incerindo valores referente as variaveis nome, data  responsavel e então sega para as outras operaçãos.
   
-![Estrutura de pastas] (teste.png)
+![Testes](teste.png)
 
 ##Contribuição
 
