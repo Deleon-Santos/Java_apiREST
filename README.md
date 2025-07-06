@@ -77,7 +77,7 @@ cd SEU_REPOSITORIO
 ```
 ### Estrutura e execução
 
-![Estrutura de pastas](./estrutura de pastas)
+![Estrutura de pastas](estrutura de pastas.png)
 Execute a Aplicação dentro de com.exemple para rodar a API 
 
 Se executando com sucesso será exibito no seu terminal a informaação "Tomcat started on port 8080 (http) with context path '/'".
@@ -86,7 +86,8 @@ Se executando com sucesso será exibito no seu terminal a informaação "Tomcat 
 Utilise ```http://localhost:8080/api_rest/tarefa``` na interface do Postman e efetue os teste.
 
   **Para inicia os teste memece incerindo valores referente as variaveis nome, data  responsavel e então sega para as outras operaçãos.
-  ![Estrutura de pastas] (./teste)
+  
+![Estrutura de pastas] (teste.png)
 
 ##Contribuição
 
