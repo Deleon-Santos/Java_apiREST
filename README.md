@@ -77,7 +77,7 @@ cd SEU_REPOSITORIO
 ```
 ### Estrutura e execução
 
-![Estrutura de pastas](estrutura%20em%20spring.png)
+![Estrutura de pastas](./img/estrutura%20em%20spring.png)
 
 Execute a Aplicação dentro de com.exemple para rodar a API 
 
@@ -86,11 +86,11 @@ Se executando com sucesso será exibito no seu terminal a informaação "Tomcat 
 
 Utilise ```http://localhost:8080/api_rest/tarefa``` na interface do Postman e efetue os teste.
 
-  **Para inicia os teste memece incerindo valores referente as variaveis nome, data  responsavel e então sega para as outras operaçãos.
+Para inicia os teste memece incerindo valores referente as variaveis nome, data  responsavel e então sega para as outras operaçãos.
   
-![Testes](teste.png)
+![Testes](./img/teste.png)
 
-##Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou solicitações de pull.
 
